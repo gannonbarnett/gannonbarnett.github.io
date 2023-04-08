@@ -1,0 +1,26 @@
+baseURL: http://example.org/
+languageCode:  en-us
+title: 
+theme: paper-mod
+
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON # is necessary
+
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: Gannon Barnett 
+    Content: Coffee til Beer | MIT 2022 | SpaceX
+  socialIcons:
+    - name: email
+      url: mailto:gannonbarnett@gmail.com
+    - name: github
+      url: https://github.com/gannonbarnett
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/7363255/gannonbarnett

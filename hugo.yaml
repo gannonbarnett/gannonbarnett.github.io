@@ -16,7 +16,7 @@ params:
 
   homeInfoParams:
     Title: Gannon Barnett 
-    Content: Coffee til Beer | MIT 2022 | SpaceX
+    Content: MIT 2022 | SpaceX | _Coffee til Beer_
   socialIcons:
     - name: email
       url: mailto:gannonbarnett@gmail.com

@@ -2,6 +2,7 @@ baseURL: https://gannonbarnett.com/
 languageCode:  en-us
 title: 
 theme: paper-mod
+googleAnalytics: "G-YZ9ZX5W11P"
 
 outputs:
   home:

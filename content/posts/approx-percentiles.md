@@ -6,6 +6,7 @@ description: ""
 tags: ["data", "percentiles", "prometheus"]
 hideMeta: true
 ShowBreadCrumbs: false
+draft: true
 ---
 Percentiles are super useful, but expensive to calculate. To calculate a percentile we need to find the point that is greater than n% of the set. Implementations usually sort the set, and then return the point at the correct index. There are two main costs for calculating a percentile: 
 * Time: sort all the data (usually `O(n*log(n))`)

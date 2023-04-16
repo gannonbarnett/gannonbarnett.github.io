@@ -13,10 +13,13 @@ outputs:
 params:
   defaultTheme: light
   disableThemeToggle: true
-
-  homeInfoParams:
-    Title: Gannon Barnett 
-    Content: MIT 2022 | SpaceX | _Coffee til Beer_
+  profileMode:
+    enabled: true
+    title: Gannon Barnett 
+    subtitle: MIT 2022 | SpaceX | _Coffee til Beer_
+    imageUrl: ""
+    imageWidth: 120
+    imageHeight: 120
   socialIcons:
     - name: email
       url: mailto:gannonbarnett@gmail.com

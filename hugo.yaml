@@ -20,6 +20,8 @@ params:
   socialIcons:
     - name: email
       url: mailto:gannonbarnett@gmail.com
+    - name: twitter
+      url: https://twitter.com/gannonbarnett
     - name: github
       url: https://github.com/gannonbarnett
     - name: stackoverflow
